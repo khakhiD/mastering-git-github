@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/74141521/176237262-fa3dfe54-eee5-4ace-89ef-bdc5eff2d2d8.png)
+![image](https://user-images.githubusercontent.com/74141521/176237262-fa3dfe54-eee5-4ace-89ef-bdc5eff2d2d8.png){: width="400" height="900"}
 
 
 # mastering-git-github
