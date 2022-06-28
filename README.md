@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74141521/176237262-fa3dfe54-eee5-4ace-89ef-bdc5eff2d2d8.png  width="400" height="900"/>
+![](https://user-images.githubusercontent.com/74141521/176237262-fa3dfe54-eee5-4ace-89ef-bdc5eff2d2d8.png =400) 
 
 # mastering-git-github
 깃과 깃허브 사용에 익숙해지기 위한 레포지토리입니다.
